@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "twYCLyrrFscPmh/OZZXI6BlGpgot+sKG1mqqptbvVCb/nK9elUZy7ghtxZyVXnMTKtaTRYrgMOr8rXdHkMkMfg==",
+  "success": true,
+  "projectFilePath": "C:\\new project\\CSharp19\\CSharp19.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.office.interop.excel\\15.0.4795.1001\\microsoft.office.interop.excel.15.0.4795.1001.nupkg.sha512"
+  ],
+  "logs": []
+}
